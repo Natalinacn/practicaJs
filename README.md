@@ -1,6 +1,8 @@
 # practicaJs
 
-Arrays
-CallBacks
-Promesas
-Funciones Flecha
+* Arrays
+* CallBacks
+* Promesas
+* Funciones Flecha
+
+
