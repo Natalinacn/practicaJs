@@ -1,3 +1,8 @@
 # practicaJs
 
-Haciendo un cambio en la rama main para generar conflicto
+* Arrays
+* CallBacks
+* Promesas
+* Funciones Flecha
+
+Hola haciendo cambios por acá en el local en la rama natalin
